@@ -3,7 +3,7 @@ layout: post
 title: Starting This Blog
 ---
 
-The idea is use this [blog](http://mailliststoc.github.io/) to share some ideas and I hope to get some feedbacks. That blog was made using [Jekyll](http://jekyllrb.com) and [Pole](http://hyde.getpoole.com/) with [Hyde](http://hyde.getpoole.com/) theme. Interested? Check the posts of [Joshua](http://joshualande.com/jekyll-github-pages-poole/) and [Bastiaan](http://qua.st/customise-jekyll-blog/) about it.
+The idea is use this [blog](http://mailliststoc.github.io/) to share some ideas and I hope to get some feedbacks. That blog was made using [Jekyll](http://jekyllrb.com) and [Pole](http://www.getpoole.com/) with [Hyde](http://hyde.getpoole.com/) theme. Interested? Check the posts of [Joshua](http://joshualande.com/jekyll-github-pages-poole/) and [Bastiaan](http://qua.st/customise-jekyll-blog/) about it.
 
 Just one quotation before start:
 
