@@ -10,4 +10,4 @@ Just one quotation before start:
   > "Don't worry about what anybody else is going to do… The best way to predict the future is to invent it. Really smart people with reasonable funding can do just about anything that doesn't violate too many of Newton's Laws!" - Alan Kay, 1971
 
 
-I hope you guys enjoy!
+I hope you guys enjoy the content.
